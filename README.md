@@ -64,3 +64,7 @@ Auxilia a aplicar o Open/Closed Principle (estender sem modificar).
 
 ༄ Este conteúdo foi elaborado por Janine Veigas Farias.
 
+# ❥ Vídeo
+༄ Vídeo explicativo: [Clique aqui para assistir](https://drive.google.com/drive/folders/17ZGb3AmYrQe1YJsX7g76sYVHZEYdwgkF?usp=sharing)
+
+
